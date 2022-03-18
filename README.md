@@ -9,6 +9,7 @@ Challenge:
 3. Individuare gli errori e descriverne il motivo (6 points)
 4. Proporre ed implementare degli improvements per aumentare la precision (6 points)
 
+[Link to the intro notebook)(Lab_Artificial_Intelligence_Intro.ipynb)
 
 The dataset consinsts of 15k observations from job posting by EMSI Burning-Glass
 For each record there are 2 dimension:
